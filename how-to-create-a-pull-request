@@ -1,0 +1,22 @@
+1. create a new file or edit an existing file
+2. git add file
+3. git commit
+4. git push --rebase origin master (which is your branch on github)
+5. git push -set-upstream origin own-branch (which is your local branch)
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+
+
