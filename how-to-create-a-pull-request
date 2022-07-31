@@ -3,7 +3,17 @@ git add file
 git commit
 git push --rebase origin master (which is your branch on github)
 git push -set-upstream origin own-branch (which is your local branch)
-~
+
+
+after change of default branch from 'main' to 'own-branch'
+It is now very simple and fast to pull any changes directly to own-branch:
+
+make some changes on files or create some new files
+git commit -a
+git push origin own-branch
+
+So on github you can find the changes directly, no steps for merge into old default branch :)
+
 ~
 ~
 ~
