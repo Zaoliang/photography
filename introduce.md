@@ -1,12 +1,12 @@
-##Films and Cameras I use at moment
+## Films and Cameras I use at moment
 
-###Films:
+### Films:
   
   - 5207 Kodak motion picture film color negativ, 250D, 35mm
   
   - 5222 Kodak motion picture film black and white, double-X, 35mm
 
-###Cameras:
+### Cameras:
   - Canon EOS 1v with Sigma lens, Canon EF 70-200mm, Zeiss distagon 28mm and 35mm
   
   - Minolta XG-2 with MD Rokkor 50mm
