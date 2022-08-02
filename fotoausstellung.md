@@ -1,4 +1,4 @@
-### Fotoausstellung in Erlangen
+### Gallery on the street, Summer 2022 in Erlangen
 
 
 ![fotoausstellung-02](images/foto-ausstellung-erlangen.03.jpg)
