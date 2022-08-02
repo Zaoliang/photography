@@ -2,6 +2,4 @@
 
 #### [Introduce](introduce.md)
 
-#### [Street photography](street-photography.md)
-
 #### [New photos](new-photos.md)
