@@ -4,4 +4,6 @@
 
 #### [Gallery on the street](fotoausstellung.md)
 
+#### [Street Photography](street-photography.md)
+
 #### [New photos](new-photos.md)
