@@ -17,5 +17,17 @@
 
 ![Mittagsschläfchen](https://live.staticflickr.com/65535/50870065497_a91439cba9_c.jpg)
 
+![Spiel auf der Straße](https://live.staticflickr.com/65535/50869256218_caa2af7c44_c.jpg)
+
+![Fashing Erlangen](https://live.staticflickr.com/65535/50870065442_fa463f6935_c.jpg)
+
+![Parkhaus Erlangen](https://live.staticflickr.com/65535/50869969446_ff55164f0f_c.jpg)
+
+![das neue deutsches museum](https://live.staticflickr.com/65535/50869257848_be974b4fa9_c.jpg)
+
+![Mandelbrennerei](https://live.staticflickr.com/65535/50870066987_ea68fa7006_c.jpg)
+
+![Fischen](https://live.staticflickr.com/65535/50869975866_7a07ed321f_c.jpg)
+
 
 ##### to be continued
