@@ -30,4 +30,4 @@
 ![Fischen](https://live.staticflickr.com/65535/50869975866_7a07ed321f_c.jpg)
 
 
-##### to be continued
+#### [To continue if you want](street-photography-bw-02.md)
