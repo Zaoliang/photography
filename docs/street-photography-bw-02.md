@@ -26,4 +26,4 @@
 
 
 
-#### [To continue if you want](street-photography-bw-03.md)
+#### [To continue >>>](street-photography-bw-03.md)
